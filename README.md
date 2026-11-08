@@ -68,3 +68,6 @@ A continuación, se presentan los diseños preliminares de las seis pantallas pr
 6. Ubicación de la barbería.
 
 ![Mockups de CitaFácil](mockups-citafacil.png)
+
+#################################################
+> Nota: La dirección y ubicación mostradas en el mockup son ilustrativas. La ubicación real se definirá durante el desarrollo.
