@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CitaFácil Barbería</string>
+    <string name="title_home">Inicio - CitaFácil</string>
+    <string name="btn_appointments">Gestión de Citas</string>
+    <string name="btn_services">Servicios</string>
+    <string name="msg_welcome">Bienvenido a CitaFácil Barbería</string>
+</resources>
