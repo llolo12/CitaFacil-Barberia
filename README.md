@@ -54,3 +54,17 @@ Los avances se entregarán mediante Pull Requests hacia la rama principal del re
 ## Autor
 
 Proyecto individual desarrollado como parte del curso de Desarrollo de Aplicaciones para Dispositivos Móviles.
+## Mockups de la aplicación
+
+A continuación, se presentan los diseños preliminares de las seis pantallas propuestas para CitaFácil. Los mockups consideran principios de experiencia de usuario (UX), buscando una interfaz sencilla, organizada y fácil de utilizar para el encargado de la barbería.
+
+### Pantallas diseñadas
+
+1. Inicio.
+2. Registro de citas.
+3. Agenda de citas con filtros.
+4. Detalle y edición de citas.
+5. Diálogo de confirmación.
+6. Ubicación de la barbería.
+
+![Mockups de CitaFácil](mockups-citafacil.png)
