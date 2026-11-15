@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">CitaFácil Barbershop</string>
+    <string name="title_home">Home - CitaFácil</string>
+    <string name="title_register">Register Appointment</string>
+    <string name="title_agenda">Appointments Agenda</string>
+    <string name="title_detail">Appointment Detail</string>
+    <string name="title_location">Location</string>
+
+    <string name="greeting_morning">GOOD MORNING</string>
+    <string name="brand_subtitle">Visual system for barbershop appointment management.</string>
+
+    <string name="label_today_appointments">Appointments for today</string>
+    <string name="label_next_appointment">NEXT</string>
+    <string name="label_quick_access">Quick Access</string>
+
+    <string name="btn_agenda">Agenda</string>
+    <string name="btn_services">Services</string>
+    <string name="btn_location">Location</string>
+    <string name="btn_save_appointment">Save Appointment</string>
+    <string name="btn_edit_appointment">Edit Appointment</string>
+    <string name="btn_delete_appointment">Delete</string>
+    <string name="btn_search">Search</string>
+    <string name="btn_cancel">Cancel</string>
+
+    <string name="hint_client_name">Client name</string>
+    <string name="hint_phone">Phone number</string>
+    <string name="hint_service">Select service</string>
+    <string name="hint_date">Select date</string>
+    <string name="hint_time">Select time</string>
+    <string name="hint_search_id">Enter appointment ID</string>
+
+    <string name="label_reference_photo">Reference photo</string>
+    <string name="text_select_gallery">Select from gallery (JPG or PNG)</string>
+
+    <string name="dialog_delete_title">Delete this appointment?</string>
+    <string name="dialog_delete_message">This action cannot be undone. The appointment will be permanently removed.</string>
+
+    <string name="barbershop_name">CitaFácil Barbershop</string>
+    <string name="barbershop_address">Av. Universidad 245, Col. Centro, Ciudad Universitaria</string>
+    <string name="barbershop_location_marker">Barbershop location</string>
+
+    <string name="msg_appointment_saved">Appointment saved successfully</string>
+    <string name="msg_appointment_updated">Appointment updated successfully</string>
+    <string name="msg_appointment_deleted">Appointment deleted successfully</string>
+    <string name="msg_appointment_not_found">Appointment not found</string>
+    <string name="msg_fill_fields">Please fill in all required fields</string>
+</resources>
